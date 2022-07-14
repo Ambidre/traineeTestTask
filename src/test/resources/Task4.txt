@@ -1,0 +1,9 @@
+xpath
+.//button
+.//button[@class='search3__button mini-suggest__button']
+
+CSS-селекторы
+.search3__button-svg
+[class='search3__button-svg']
+.mini-suggest__button
+[class='mini-suggest__button']
