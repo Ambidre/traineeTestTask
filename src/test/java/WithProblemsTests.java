@@ -35,7 +35,7 @@ public class WithProblemsTests {
     public void stringsMustBeEquals(){
         String res = "a";
 
-        if (bd == "pui") {
+        if (bd.equals("pui")) {
             res = "asd";
         }
 
